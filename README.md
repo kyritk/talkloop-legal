@@ -5,6 +5,7 @@ TalkLoop（Kyri Lab）の法的文書を公開する静的サイト。
 ## 公開ドキュメント
 
 - [プライバシーポリシー](https://kyritk.github.io/talkloop-legal/privacy.html)
+- [アカウントとデータの削除](https://kyritk.github.io/talkloop-legal/account-deletion.html)
 
 ## 関連
 
