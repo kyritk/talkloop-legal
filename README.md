@@ -1,6 +1,6 @@
 # TalkLoop Legal
 
-TalkLoop（Kyri Lab）の法的文書を公開する静的サイト。
+TalkLoopの法的文書を公開する静的サイト。
 
 ## 公開ドキュメント
 
