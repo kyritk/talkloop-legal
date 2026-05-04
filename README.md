@@ -12,4 +12,4 @@ TalkLoop（Kyri Lab）の法的文書を公開する静的サイト。
 
 - アプリ: TalkLoop — 繋がる瞬間英作文（Android）
 - 事業者: Kyri Lab
-- お問い合わせ: <support@kyrilab.com>
+- お問い合わせ: <krikri1008@gmail.com>
