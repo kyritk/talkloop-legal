@@ -11,5 +11,5 @@ TalkLoop（Kyri Lab）の法的文書を公開する静的サイト。
 ## 関連
 
 - アプリ: TalkLoop — 繋がる瞬間英作文（Android）
-- 事業者: Kyri Lab
+- 開発者: Kyri
 - お問い合わせ: <krikri1008@gmail.com>
